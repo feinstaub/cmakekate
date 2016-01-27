@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=KTextEditor/Plugin
+X-KDE-Library=cmakekateplugin
+Name=CMake Kate
+Comment=CMake Kate integration

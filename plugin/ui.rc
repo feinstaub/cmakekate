@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kpartgui>
+<gui name="cmakekate" library="cmakekate" version="1" translationDomain="cmakekate">
+  <MenuBar>
+    <Menu name="file"><text>&amp;File</text>
+      <Action name="cmake_open_build" group="open_merge" />
+    </Menu>
+  </MenuBar>
+</gui>

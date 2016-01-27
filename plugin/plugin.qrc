@@ -1,0 +1,10 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/kxmlgui5/cmakekate">
+        <file>ui.rc</file>
+    </qresource>
+    <qresource>
+        <file>list-add.png</file>
+        <file>list-remove.png</file>
+    </qresource>
+</RCC>
